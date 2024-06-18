@@ -17,7 +17,7 @@ export default function App() {
         >
           Carlynn Adams
         </a>
-        , is
+        , is 
         <a
           href="https://github.com/Carlynn-Adams/weather-app-react"
           target="_blank"
@@ -25,9 +25,9 @@ export default function App() {
         >
           open-sourced on GitHub
         </a>
-        and
+         and
         <a
-          href="https://main--shecodes-weather-forecast-app.netlify.app/"
+          href="https://voluble-parfait-3c313f.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
