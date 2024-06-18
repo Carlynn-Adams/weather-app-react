@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import WeatherSearch from "./WeatherSearch";
+
 
 import App from "./App";
 
